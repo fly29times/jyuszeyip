@@ -1,2 +1,2 @@
-# jyuszeyip
+# jyuszeyip.github.io
 personal (academic) website
