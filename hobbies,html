@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>兴趣爱好 - 你的名字</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">首页</a>
+        <a href="about.html">关于我</a>
+        <a href="projects.html">项目作品</a>
+        <a href="hobbies.html">兴趣爱好</a>
+        <a href="contact.html">联系方式</a>
+    </nav>
+
+    <div class="container">
+        <h1>兴趣爱好 Hobbies</h1>
+
+        <div class="content">
+            <h2>📚 阅读</h2>
+            <p>我喜欢阅读各种类型的书籍，特别是【某某类型】。</p>
+            
+            <h3>最近在读</h3>
+            <ul>
+                <li>《书名1》 - 作者</li>
+                <li>《书名2》 - 作者</li>
+            </ul>
+
+            <h3>我最喜欢的书</h3>
+            <ul>
+                <li>《书名》 - 作者 - 推荐理由</li>
+                <li>《书名》 - 作者 - 推荐理由</li>
+                <li>《书名》 - 作者 - 推荐理由</li>
+            </ul>
+
+            <h2>🎵 音乐</h2>
+            <p>我喜欢听【某某类型】的音乐，最喜欢的歌手/乐队是【名字】。</p>
+            
+            <h3>最近在听</h3>
+            <ul>
+                <li>歌曲名 - 歌手</li>
+                <li>歌曲名 - 歌手</li>
+            </ul>
+
+            <h2>🎮 游戏</h2>
+            <p>我喜欢玩【某某类型】的游戏。</p>
+            <ul>
+                <li>最喜欢的游戏：游戏名</li>
+                <li>最近在玩：游戏名</li>
+                <li>想玩的游戏：游戏名</li>
+            </ul>
+
+            <h2>🎬 电影 & 剧集</h2>
+            <h3>最喜欢的电影</h3>
+            <ul>
+                <li>《电影名》（年份） - 导演</li>
+                <li>《电影名》（年份） - 导演</li>
+            </ul>
+
+            <h3>最喜欢的剧集</h3>
+            <ul>
+                <li>《剧名》 - 推荐理由</li>
+                <li>《剧名》 - 推荐理由</li>
+            </ul>
+
+            <h2>📸 摄影（如果喜欢摄影）</h2>
+            <p>我喜欢用相机记录生活，特别是【风景/人像/街拍等】摄影。</p>
+            <p>设备：某某相机 / 手机</p>
+
+            <h2>⚽ 运动</h2>
+            <p>我喜欢的运动：</p>
+            <ul>
+                <li>篮球 / 足球 / 羽毛球</li>
+                <li>跑步 / 健身</li>
+                <li>游泳 / 骑行</li>
+            </ul>
+
+            <h2>🎨 其他爱好</h2>
+            <ul>
+                <li>画画 / 书法</li>
+                <li>烹饪 / 烘焙</li>
+                <li>旅行 - 去过的城市：XX、XX、XX</li>
+                <li>学习外语 - 目前在学习【某语言】</li>
+            </ul>
+
+            <h2>💡 想尝试的事情</h2>
+            <ul>
+                <li>学习某某技能</li>
+                <li>去某某地方旅行</li>
+                <li>尝试某某运动</li>
+            </ul>
+        </div>
+
+        <footer>
+            <p>网站由 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> 托管</p>
+            <p>© 你的名字 2025 | 最后更新：2025年1月</p>
+        </footer>
+    </div>
+</body>
+</html>
